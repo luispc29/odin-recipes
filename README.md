@@ -1,2 +1,2 @@
 # odin-recipes
-First TOP html project showcasing ability to invoke boilerplate, along with basic attributes such as: headers, paragraphs, lists,
+First TOP html project showcasing ability to invoke boilerplate, along with basic attributes, elements, and tags such as: headers, paragraphs, lists, anchors, links, and images.
